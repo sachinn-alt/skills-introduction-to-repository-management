@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sachinn-alt
+/src/backend/database.py      @sachinn-alt
+/src/backend/routers/auth.py  @sachinn-alt
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sachinn-alt
